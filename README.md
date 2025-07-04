@@ -18,8 +18,8 @@ This repository is built as a learning and practice resource for:
 
 | Algorithm         | Description                       | File               |
 |------------------|-----------------------------------|--------------------|
-| Fibonacci         | Calculates nth term of the Fibonacci sequence | `fibonacci.py`     |
-| Linear Search     | Searches for a value in a list one by one     | `linear_search.py` |
+| Fibonacci         | Calculates nth term of the Fibonacci sequence | `fibonacci.ipynb`     |
+| Linear Search     | Searches for a value in a list one by one     | `linear_search.ipynb` |
 
 ---
 
